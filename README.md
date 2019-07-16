@@ -1,5 +1,7 @@
 # awesome-javascript
 
+[![Build Status](https://travis-ci.com/rookiecj/awesome-javascript.png?branch=master)](https://travis-ci.com/rookiecj/awesome-javascript)
+
 ## Getting Started
 
 ### Prerequisites
