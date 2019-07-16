@@ -14,10 +14,10 @@ describe('Integration with GitHub API', () => {
   })
 
   test('Get a user', async () => {
-    const res = await github.getUser('stunstunstun')
+    const res = await github.getUser('rookiecj')
     expect(res).toEqual(
       expect.objectContaining({
-        login: 'stunstunstun',
+        login: 'rookiecj',
       })
     )
   })
